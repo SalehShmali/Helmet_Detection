@@ -1,0 +1,50 @@
+item {
+    name: "DHelmet",
+    id: 1,
+    display_name: "DHelmet"
+}
+item {
+    name: "DHelmetP1Helmet",
+    id: 2,
+    display_name: "DHelmetP1Helmet"
+}
+item {
+    name: "DHelmetP1NoHelmet",
+    id: 3,
+    display_name: "DHelmetP1NoHelmet"
+}
+item {
+    name: "DN0HelmetP1NoHelmetP2NoHelmet",
+    id: 4,
+    display_name: "DN0HelmetP1NoHelmetP2NoHelmet"
+}
+item {
+    name: "DNoHelmet",
+    id: 5,
+    display_name: "DNoHelmet"
+}
+item {
+    name: "DNoHelmetP0NoHelmet",
+    id: 6,
+    display_name: "DNoHelmetP0NoHelmet"
+}
+item {
+    name: "DNoHelmetP1Helmet",
+    id: 7,
+    display_name: "DNoHelmetP1Helmet"
+}
+item {
+    name: "DNoHelmetP1NoHelmet",
+    id: 8,
+    display_name: "DNoHelmetP1NoHelmet"
+}
+item {
+    name: "DNoHelmetP1NoHelmetP2NoHelmet",
+    id: 9,
+    display_name: "DNoHelmetP1NoHelmetP2NoHelmet"
+}
+item {
+    name: "DNoHelmetPoNoHelmetP1NoHelmet",
+    id: 10,
+    display_name: "DNoHelmetPoNoHelmetP1NoHelmet"
+}
