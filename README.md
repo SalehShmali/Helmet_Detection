@@ -1,5 +1,5 @@
 ## Helmet Detection
-This code implements a deep learning model for identifying and tracking individualmotorcycles, and register rider specific helmet use.
+This code implements a deep learning model for identifying and tracking individual motorcycles, and register rider specific helmet use.
 [this](https://arxiv.org/pdf/1910.13232.pdf) paper was implemented.
 
 The data used for training can be downloaded from [Here](https://osf.io/4pwj8).
